@@ -1,7 +1,7 @@
 # Sorting-Techniques
 Java Implementation of Multiple Sorting Techniques
 
-BUBBLE SORT
+BUBBLE SORT:
 Bubble Sort is a simple comparison-based sorting algorithm. It works by repeatedly swapping adjacent elements if they are in the wrong order. The largest element "bubbles up" to its correct position in each pass
 The time complexity for code is O(n^2).
 How It Works:
